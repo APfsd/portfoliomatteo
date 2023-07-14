@@ -45,7 +45,6 @@ a {
 .container_video{
 	max-width: 1500px;
 	margin: 0 auto;
-	padding: 50px 0;
 }
 
 .clearfix::after {
@@ -237,7 +236,7 @@ nav li a {
 	background-size: cover;
 	background-attachment: fixed;
 	background-position: center;
-	padding: 50px 0;
+	padding: 120px 0;
 	color: #fff;
 }
 
